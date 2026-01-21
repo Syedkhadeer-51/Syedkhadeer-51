@@ -2,7 +2,7 @@
 
 🔭 Currently working on  
 - 3D web experiences using **React Three Fiber** and **Three.js**  
-- A full-stack **e‑commerce platform** with **React / Next.js** and **Node.js 
+- A full-stack **e‑commerce platform** with **React / Next.js** 
 - XR/VR prototypes for interactive training and walkthroughs
 
   
